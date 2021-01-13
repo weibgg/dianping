@@ -1,24 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="65e88303-a407-4a1f-9e36-d1af6a5c0a0b" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="65e88303-a407-4a1f-9e36-d1af6a5c0a0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/comment/src/main/java/org/imooc/controller/api/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/comment/src/main/java/org/imooc/controller/api/OrderController.java" afterDir="false" />
+    </list>
+>>>>>>> team2/dev
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="team1/dev" />
+=======
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+>>>>>>> team2/dev
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1mzbXTh31CPq3VX0VX0wsQRoPEB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+>>>>>>> team2/dev
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
+<<<<<<< HEAD
     <servers />
   </component>
   <component name="WindowStateProjectService">
@@ -26,5 +67,46 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="530" y="129" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.834/1920.0.720.1249@0.0.1536.834" timestamp="1610525769585" />
+=======
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65e88303-a407-4a1f-9e36-d1af6a5c0a0b" name="Default Changelist" comment="" />
+      <created>1610499405697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610499405697</updated>
+      <workItem from="1610499408525" duration="5672000" />
+      <workItem from="1610517204266" duration="2175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="306" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1610505563333">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="614" y="306" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.834/1920.0.720.1249@0.0.1536.834" timestamp="1610505563333" />
+    <state x="349" y="72" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1610505560048">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="349" y="72" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1536.834/1920.0.720.1249@0.0.1536.834" timestamp="1610505560048" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1610505557987">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.834/1920.0.720.1249@0.0.1536.834" timestamp="1610505557987" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1610517411023">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.720.1249@0.0.1536.834" timestamp="1610517411023" />
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1610517226942">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.720.1249@0.0.1536.834" timestamp="1610517226942" />
+    <state x="178" y="27" key="new project wizard" timestamp="1610509467882">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="178" y="27" key="new project wizard/0.0.1536.834/1920.0.720.1249@0.0.1536.834" timestamp="1610509467882" />
+>>>>>>> team2/dev
   </component>
 </project>
