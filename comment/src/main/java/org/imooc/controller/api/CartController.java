@@ -2,13 +2,12 @@ package org.imooc.controller.api;
 
 import org.springframework.stereotype.Controller;
 
+/**
+ * @author Administrator
+ */
 @Controller
 public class CartController {
     public void addCart(){
-        System.out.println("team1 开发购物车 第一天");
-    }
-
-    public void updateCart(){
-        System.out.println("team1 开发购物车 第二天");
+        System.out.println("team1开发购物车第一天");
     }
 }
