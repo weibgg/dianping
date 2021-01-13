@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65e88303-a407-4a1f-9e36-d1af6a5c0a0b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/comment/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/comment/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comment/src/main/java/org/imooc/controller/api/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/comment/src/main/java/org/imooc/controller/api/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comment/src/main/java/org/imooc/controller/api/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/comment/src/main/java/org/imooc/controller/api/OrderController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
