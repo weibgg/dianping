@@ -3,7 +3,7 @@ package org.imooc.controller.api;
 import org.springframework.stereotype.Controller;
 
 /**
- * @author Administrator
+ * @author admin
  */
 @Controller
 public class CartController {
